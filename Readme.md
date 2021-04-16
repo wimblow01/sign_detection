@@ -90,3 +90,8 @@ Au final nous obtenons ceci
 * le nombre total d'images avant et après traitement par Mediapipe n'est pas très élevé
     * on pourrait soit faire une nouvelle série d'images pour augmenter le jeu d'images ou encore faire de la data augmentation (le problème étant comme pour le fait de signer avec les 2 mains, sur un flip horizontal, il faudrait que les 2 positions soient acceptées.)
  * par facilité et manque de temps, le système de suppression de lettre et d'espace se fait via le clavier. Le but final étant de pouvoir travailler sans clavier, il serait bien de mettre en place soit un signe pour faire un espace, soit un endroit dans la fenêtre qui nous permettrait en y laissant la main ou un doigt un certain de faire un espace ou de supprimer la dernière lettre.
+
+
+### Remerciements
+
+Un grand merci à @JulienFuriga pour l'aide qu'il a apporté dans l'accomplissement de ce projet
