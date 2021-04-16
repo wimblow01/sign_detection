@@ -70,6 +70,7 @@ Cette partie se découpe en plusieurs phases:
     * enfin l'image est remise en BGR pour être traitée par cv2 et être affichée
 
 Sans le repassage en BGR cela donnerait
+
 ![sign_RGB](assets/sign_RGB.PNG)
 
 Pour simplifier cette phase, nous avons mis en places 3 touches:
