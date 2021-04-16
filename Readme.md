@@ -42,7 +42,7 @@ Ensuite les classes ont été label encodé.
 
 A la sortie nous obtenons une accuracy de 61% mais avec une stabilité moyenne: plus on se rapprochait des dernières epochs, plus l'accuracy jouait au 'yoyo'.
 
-![accuracy](assets/accuracy.png)
+![accuracy](assets/accuracy.PNG)
 
 
 61% peut parraître faible comme résultat mais cela est suffisant pour avoir une bonne reconnaissance en vidéo. Ce résultat peut s'expliquer par la forte ressemblance entre les lettres, comme par exemple :
