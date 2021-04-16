@@ -1,4 +1,4 @@
-# Reconnaissance de la lanue des signes
+# Reconnaissance de la langue des signes
 
 ## Contexte du projet: 
 
