@@ -24,7 +24,7 @@ Pour ce faire, nous avons utilisé Mediapipe. Le principe est de placer des keyp
 
 En conditions réelles, cela donne :
 
-![real_hand_landmarks](assets/real_hand_landmarks.png)
+![real_hand_landmarks](assets/real_hand_landmarks.PNG)
 
 
 Pour commencer nous avons regroupé toutes les images dans un seul dossier. Nous avons donc commencé avec 1694 images.
@@ -46,9 +46,9 @@ A la sortie nous obtenons une accuracy de 61% mais avec une stabilité moyenne: 
 
 
 61% peut parraître faible comme résultat mais cela est suffisant pour avoir une bonne reconnaissance en vidéo. Ce résultat peut s'expliquer par la forte ressemblance entre les lettres, comme par exemple :
-* ![c](assets/c.png) et ![o](assets/o.png)
-* ![f](assets/f.png) et ![t](assets/t.png)
-* ![m](assets/m.png) et ![n](assets/n.png)
+* ![c](assets/c.PNG) et ![o](assets/o.PNG)
+* ![f](assets/f.PNG) et ![t](assets/t.PNG)
+* ![m](assets/m.PNG) et ![n](assets/n.PNG)
 
 
 ## Test en vidéo:
@@ -70,7 +70,7 @@ Cette partie se découpe en plusieurs phases:
     * enfin l'image est remise en BGR pour être traitée par cv2 et être affichée
 
 Sans le repassage en BGR cela donnerait
-![sign_RGB](assets/sign_RGB.png)
+![sign_RGB](assets/sign_RGB.PNG)
 
 Pour simplifier cette phase, nous avons mis en places 3 touches:
 * **espace** pour faire un espace dans la phrase
@@ -79,7 +79,7 @@ Pour simplifier cette phase, nous avons mis en places 3 touches:
 
 Au final nous obtenons ceci
 
-![sign_sentence](assets/sign_sentence.png)
+![sign_sentence](assets/sign_sentence.PNG)
 
 ### Problèmes rencontrés:
 
