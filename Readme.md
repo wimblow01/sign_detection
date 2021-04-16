@@ -94,4 +94,4 @@ Au final nous obtenons ceci
 
 ### Remerciements
 
-Un grand merci à @JulienFuriga pour l'aide qu'il a apporté dans l'accomplissement de ce projet
+Un grand merci à @FurigaJulien pour l'aide qu'il a apporté dans l'accomplissement de ce projet
